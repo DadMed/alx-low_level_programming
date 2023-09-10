@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description writing a quote using write fonction
+ * Description: print a quote using write fonction
  *	ssize_t  write(int fd,const void *buff,size_t count);
  *
  * Return: 1 (error)
